@@ -44,10 +44,8 @@ while True:
 ```
 ## OUPUT
 client
-
 ![Screenshot 2024-05-11 162741](https://github.com/vijayr21/2b_SLIDING_WINDOW_PROTOCOL/assets/149347607/b0d21258-bb86-4a50-808c-0dd47ee91a14)
 server
-
 ![Screenshot 2024-05-11 162748](https://github.com/vijayr21/2b_SLIDING_WINDOW_PROTOCOL/assets/149347607/38b71bda-5b4f-4792-9096-9958547c9cc1)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
