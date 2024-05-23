@@ -13,7 +13,6 @@ client:
 ```
 VIJAY R
 212223240178
-
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
